@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5d61732ba85fe44fe9b5bbcb9dfb3623
+timeCreated: 1559655235
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zenzai Itachi
+  fontNames:
+  - Zenzai Itachi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

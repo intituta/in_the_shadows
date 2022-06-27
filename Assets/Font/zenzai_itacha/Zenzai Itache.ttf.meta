@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 73dc2d6c9a5d246bc84184750c8608f2
+timeCreated: 1559655236
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zenzai Itache
+  fontNames:
+  - Zenzai Itache
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
