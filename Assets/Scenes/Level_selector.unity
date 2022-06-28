@@ -1114,7 +1114,7 @@ GameObject:
   m_Component:
   - component: {fileID: 444453541}
   m_Layer: 0
-  m_Name: Paris
+  m_Name: Hospital
   m_TagString: Untagged
   m_Icon: {fileID: 8220585740371884164, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -3122,7 +3122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1314632422}
   m_Layer: 0
-  m_Name: New York
+  m_Name: Space
   m_TagString: Untagged
   m_Icon: {fileID: 8220585740371884164, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -4571,7 +4571,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2005801069}
   m_Layer: 0
-  m_Name: Amazonia
+  m_Name: Swamp
   m_TagString: Untagged
   m_Icon: {fileID: 8220585740371884164, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0

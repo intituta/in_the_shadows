@@ -1673,7 +1673,7 @@ GameObject:
   - component: {fileID: 1660898913}
   - component: {fileID: 1660898912}
   m_Layer: 0
-  m_Name: fond
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1906,6 +1906,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -21.12
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 536917e7d77d24b96a81ad89b3ac28fb, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fdb77c3917027234db7a7792019eda2e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 536917e7d77d24b96a81ad89b3ac28fb, type: 3}
 --- !u!1 &1876601087 stripped
